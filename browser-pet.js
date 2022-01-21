@@ -41,8 +41,6 @@ class Pet {
         this.eventListeners = [];
 
         if (this.supported) {
-            console.log('Module is supported, all good!');
-
             const P = this;
 
             this.recognition = new SpeechRecognition();
