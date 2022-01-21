@@ -3,6 +3,9 @@ Browser Pet is a small browser module to create a pet using Speech Recognition. 
 
 # Installation
 Look on [MDN for Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) availability.
+```HTML
+<script src="https://raw.githubusercontent.com/MushAsterion/browser-pet/main/browser-pet.js"></script>
+```
 
 # Initialization
 ```JavaScript
